@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import { Calendar } from 'lucide-react';
 import { CandidateSelector } from './components/CandidateSelector';
 import { EngineerFilter } from './components/EngineerFilter';
